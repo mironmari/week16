@@ -1,0 +1,29 @@
+.block1 {
+  margin-top: 20px;
+}
+.block2 {
+  margin-top: 20px;
+}
+.block3 {
+  margin-top: 20px;
+}
+.button {
+  margin-top: 20px;
+}
+.name {
+  margin-bottom: 0;
+}
+.link {
+  margin-bottom: 0;
+}
+.comment {
+  margin-bottom: 0;
+}
+.container3 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.comment-text1 {
+  width: 170px;
+  height: 100px;
+}
